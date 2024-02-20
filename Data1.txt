@@ -1,50 +1,47 @@
-[
-	{
-		"Pothole ID": "1",
-		"Area": "Bahadurpally",
-		"Latitude": "17.558283",
-		"Longitude": "78.441712",
-		"Size": "large",
-		" Date & Time": "20-02-2024",
-		"Image": "3:51 PM"
-	},
-	{
-		"Pothole ID": "2",
-		"Area": "Bahadurpally",
-		"Latitude": "17.557413",
-		"Longitude": "78.441462",
-		"Size": "small",
-		" Date & Time": "20-02-2024",
-		"Image": "3:52 PM"
-	},
-	{
-		"Pothole ID": "3",
-		"Area": "Bahadurpally",
-		"Latitude": "17.556318",
-		"Longitude": "78.440957",
-		"Size": "large",
-		" Date & Time": "20-02-2024",
-		"Image": "3:52 PM"
-	},
-	{
-		"Pothole ID": "4",
-		"Area": "Suraram",
-		"Latitude": "17.555758",
-		"Longitude": "78.440782",
-		"Size": "large",
-		" Date & Time": "20-02-2024",
-		"Image": "3:53 PM"
-	},
-	{
-		"Pothole ID": "5",
-		"Area": "Bahadurpally",
-		"Latitude": "17.554209",
-		"Longitude": "78.440032",
-		"Size": "large",
-		" Date & Time": "20-02-2024",
-		"Image": "3:54 PM"
-	},
-	{
-		"Pothole ID": ""
-	}
+﻿[
+  {
+    "Pothole ID": "1",
+    "Area": "Bahadurpally",
+    "Latitude": "17.558283",
+    "Longitude": "78.441712",
+    "Size": "large",
+    " Date & Time": "20-02-2024",
+    "Image": "3:51 PM"
+  },
+  {
+    "Pothole ID": "2",
+    "Area": "Bahadurpally",
+    "Latitude": "17.557413",
+    "Longitude": "78.441462",
+    "Size": "small",
+    " Date & Time": "20-02-2024",
+    "Image": "3:52 PM"
+  },
+  {
+    "Pothole ID": "3",
+    "Area": "Bahadurpally",
+    "Latitude": "17.556318",
+    "Longitude": "78.440957",
+    "Size": "large",
+    " Date & Time": "20-02-2024",
+    "Image": "3:52 PM"
+  },
+  {
+    "Pothole ID": "4",
+    "Area": "Suraram",
+    "Latitude": "17.555758",
+    "Longitude": "78.440782",
+    "Size": "large",
+    " Date & Time": "20-02-2024",
+    "Image": "3:53 PM"
+  },
+  {
+    "Pothole ID": "5",
+    "Area": "Bahadurpally",
+    "Latitude": "17.554209",
+    "Longitude": "78.440032",
+    "Size": "large",
+    " Date & Time": "20-02-2024",
+    "Image": "3:54 PM"
+  }
 ]
