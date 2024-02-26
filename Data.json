@@ -1,102 +1,102 @@
-﻿[
-  {
-    "Pothole ID": "1",
-    "Area": "Bahadurpally",
-    "Latitude": "17.558283",
-    "Longitude": "78.441712",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:51 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/1.jpg"
-  },
-  {
-    "Pothole ID": "2",
-    "Area": "Bahadurpally",
-    "Latitude": "17.557413",
-    "Longitude": "78.441462",
-    "Size": "small",
-    "Date": "20-02-2024",
-    "Time": "3:52 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/2.jpg"
-  },
-  {
-    "Pothole ID": "3",
-    "Area": "Bahadurpally",
-    "Latitude": "17.556318",
-    "Longitude": "78.440957",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:52 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/3.jpg"
-  },
-  {
-    "Pothole ID": "4",
-    "Area": "Suraram",
-    "Latitude": "17.555758",
-    "Longitude": "78.440782",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:53 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/4.jpg"
-  },
-  {
-    "Pothole ID": "5",
-    "Area": "Bahadurpally",
-    "Latitude": "17.554209",
-    "Longitude": "78.440032",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:54 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/5.jpg"
-  },
-  {
-    "Pothole ID": "6",
-    "Area": "Bahadurpally",
-    "Latitude": "17.558283",
-    "Longitude": "78.441712",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:51 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/6.jpg"
-  },
-  {
-    "Pothole ID": "7",
-    "Area": "Bahadurpally",
-    "Latitude": "17.557413",
-    "Longitude": "78.441462",
-    "Size": "small",
-    "Date": "20-02-2024",
-    "Time": "3:52 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/7.jpg"
-  },
-  {
-    "Pothole ID": "8",
-    "Area": "Bahadurpally",
-    "Latitude": "17.556318",
-    "Longitude": "78.440957",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:52 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/8.jpg"
-  },
-  {
-    "Pothole ID": "9",
-    "Area": "Suraram",
-    "Latitude": "17.555758",
-    "Longitude": "78.440782",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:53 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/9.jpg"
-  },
-  {
-    "Pothole ID": "10",
-    "Area": "Bahadurpally",
-    "Latitude": "17.554209",
-    "Longitude": "78.440032",
-    "Size": "large",
-    "Date": "20-02-2024",
-    "Time": "3:54 PM",
-    "Image": "https://pallepavithra.github.io/Project/Images/10.jpg"
-  }
-]
+[
+    {
+      "ID": "1",
+      "Area": "Bahadurpally",
+      "Latitude": "17.558283",
+      "Longitude": "78.441712",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:51 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/1.jpg"
+    },
+    {
+      "ID": "2",
+      "Area": "Bahadurpally",
+      "Latitude": "17.557413",
+      "Longitude": "78.441462",
+      "Size": "small",
+      "Date": "20-02-2024",
+      "Time": "3:52 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/2.jpg"
+    },
+    {
+      "ID": "3",
+      "Area": "Bahadurpally",
+      "Latitude": "17.556318",
+      "Longitude": "78.440957",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:52 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/3.jpg"
+    },
+    {
+      "ID": "4",
+      "Area": "Suraram",
+      "Latitude": "17.555758",
+      "Longitude": "78.440782",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:53 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/4.jpg"
+    },
+    {
+      "ID": "5",
+      "Area": "Bahadurpally",
+      "Latitude": "17.554209",
+      "Longitude": "78.440032",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:54 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/5.jpg"
+    },
+    {
+      "ID": "6",
+      "Area": "Bahadurpally",
+      "Latitude": "17.558283",
+      "Longitude": "78.441712",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:51 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/6.jpg"
+    },
+    {
+      "ID": "7",
+      "Area": "Bahadurpally",
+      "Latitude": "17.557413",
+      "Longitude": "78.441462",
+      "Size": "small",
+      "Date": "20-02-2024",
+      "Time": "3:52 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/7.jpg"
+    },
+    {
+      "ID": "8",
+      "Area": "Bahadurpally",
+      "Latitude": "17.556318",
+      "Longitude": "78.440957",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:52 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/8.jpg"
+    },
+    {
+      "ID": "9",
+      "Area": "Suraram",
+      "Latitude": "17.555758",
+      "Longitude": "78.440782",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:53 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/9.jpg"
+    },
+    {
+      "ID": "10",
+      "Area": "Bahadurpally",
+      "Latitude": "17.554209",
+      "Longitude": "78.440032",
+      "Size": "large",
+      "Date": "20-02-2024",
+      "Time": "3:54 PM",
+      "Image": "https://pallepavithra.github.io/Project/Images/10.jpg"
+    }
+  ]
